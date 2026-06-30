@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jai9839/leetcode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,9 +17,15 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/jai9839/leetcode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/jai9839/leetcode/tree/master/0205-isomorphic-strings) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
