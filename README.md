@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jai9839/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/jai9839/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/jai9839/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
