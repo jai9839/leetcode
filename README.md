@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jai9839/leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/jai9839/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
