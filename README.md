@@ -20,12 +20,14 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/jai9839/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/jai9839/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/jai9839/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/jai9839/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/jai9839/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/jai9839/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
