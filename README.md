@@ -60,9 +60,11 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jai9839/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/jai9839/leetcode/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jai9839/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/jai9839/leetcode/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
