@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jai9839/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jai9839/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/jai9839/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -67,4 +68,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jai9839/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/jai9839/leetcode/tree/master/0147-insertion-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jai9839/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jai9839/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
