@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
+| [0087-scramble-string](https://github.com/jai9839/leetcode/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/jai9839/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jai9839/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jai9839/leetcode/tree/master/0290-word-pattern) |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jai9839/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/jai9839/leetcode/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
