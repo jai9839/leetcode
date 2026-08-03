@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jai9839/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jai9839/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jai9839/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jai9839/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/jai9839/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/jai9839/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jai9839/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/jai9839/leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/jai9839/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -40,6 +42,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/jai9839/leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/jai9839/leetcode/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/jai9839/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jai9839/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Prefix Sum
 |  |
@@ -56,6 +59,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/jai9839/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/jai9839/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
@@ -79,6 +83,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jai9839/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/jai9839/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jai9839/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -92,4 +97,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jai9839/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jai9839/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
